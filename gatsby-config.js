@@ -87,6 +87,7 @@ module.exports = {
       },
     },
     'gatsby-plugin-catch-links',
+    'gatsby-plugin-netlify-cms',
     'gatsby-plugin-offline',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
